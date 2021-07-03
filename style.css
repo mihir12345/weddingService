@@ -171,7 +171,7 @@ h2 {
   display: none;
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1300px) {
   .image1 {
     display: none;
   }
